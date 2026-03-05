@@ -2,10 +2,10 @@
 
 ## 👨‍💻 Author
 
-**Name:** Yadav Rohit Prabhat
-**Field:** Data Science
-**Internship:** SyntexcHub Data Science Internship
-**Internship Duration:** 25 December 2025 – 25 January 2026
+- **Name:** Yadav Rohit Prabhat  
+- **Field:** Data Science  
+- **Internship:** SyntexcHub Data Science Internship  
+- **Internship Duration:** 25 December 2025 – 25 January 2026
 
 ---
 
